@@ -1,7 +1,7 @@
 {
-    "name": "MOD NAME GOES HERE",
-    "description": "MOD DESCRIPTION GOES HERE",
-    "developer":
+    "name": "SCP MOD",
+    "description": "mi propio mod de SCP.",
+    "developer":ElFontanero456
     {
         "name": "DEVELOPER NAME GOES HERE"
     },
@@ -17,10 +17,10 @@
         {
             "background_music":
             [
-                "music/track_1.mp3",
-                "music/track_2.mp3",
-                "music/track_3.mp3",
-                "music/track_4.mp3"
+                "music/SCP Roleplay - Paranormal.mp3",
+                "music/SCP Roleplay OST - Calculated.mp3",
+                "music/SCP Roleplay Nuke Music but there's more alarms..mp3",
+                "music/Facility Outside.mp3"
             ],
             "browser_sounds":
             {
